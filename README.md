@@ -6,7 +6,7 @@
 
 ###
 
-<h3 align="left">I'm Rosmeo  from El Salvador<br><br>- 🔭 I’m studying as software engineer<br>- 📚 I'm currently learning c#<br>- ⚡ In my free time I like to go to the gym</h3>
+<h3 align="left">I'm Rosmeo  from El Salvador<br><br>- 🔭 I’m studying  software engineer<br>- 📚 I'm currently learning c#<br>- ⚡ In my free time I like to go to the gym</h3>
 
 ###
 
